@@ -1,10 +1,10 @@
 <div align="center">
 
-# DinosaurPlanetRecomp-AppImage 🐧
+# DinosaurPlanetRecomp-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/DinosaurPlanetRecomp-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/DinosaurPlanetRecomp-AppImage)](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced)](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://github.com/DinosaurPlanetRecomp/dino-recomp/blob/main/icons/64.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage/releases/latest) | [Click here](https://github.com/DinosaurPlanetRecomp/dino-recomp) |
+| [Click here](https://github.com/pkgforge-dev/DinosaurPlanetRecomp-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/DinosaurPlanetRecomp/dino-recomp) |
 
 </div>
 
